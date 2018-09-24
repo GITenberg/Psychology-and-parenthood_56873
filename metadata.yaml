@@ -1,0 +1,24 @@
+_repo: Psychology-and-parenthood_56873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bruce, H. Addington (Henry Addington)
+    alias: Bruce, Henry Addington Bayley
+    birthdate: 1874
+    deathdate: 1959
+    gutenberg_agent_id: '33491'
+    url: http://www.gutenberg.org/2009/agents/33491
+    wikipedia: http://en.wikipedia.org/wiki/Addington_Bruce
+description: ''
+gutenberg_issued: '2018-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Psychology and parenthood
+url: http://www.gutenberg.org/ebooks/56873
